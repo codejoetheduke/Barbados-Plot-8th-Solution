@@ -1,0 +1,71 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python stuff
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Datasets and model weights
+data/
+datasets/
+*.csv
+*.json
+*.xlsx
+*.pkl
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Outputs and experiments
+runs/
+outputs/
+results/
+checkpoints/
+model_dataset/
+model_testdataset/
+survey_plans/
+
+# API keys, secrets, and configs
+.env
+.env.*
+*.yaml
+*.yml
+config.json
+settings.json
+

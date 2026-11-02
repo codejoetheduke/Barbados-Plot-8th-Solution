@@ -1,0 +1,7 @@
+unsloth
+ultralytics
+pandas
+matplotlib
+rich
+numpy
+scikit-learn
