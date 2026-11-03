@@ -1,10 +1,10 @@
-# 🛰️ Barbados Survey Plans - Complete AI Pipeline
+# 🛰️ 8th Place Solution - Barbados Survey Plans - Complete AI Pipeline
 
 > A **two-stage end-to-end AI pipeline** combining **YOLOv8 segmentation** and **Vision Language Model (VLM) extraction** for comprehensive processing of Barbados land survey documents.
 
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+<div align='center'>
+<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/597/thumb_8240f9b5-e585-43b4-a45d-07e12dd897d1.png" style="width:50%;">
+</div>
 
 ---
 

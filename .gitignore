@@ -60,6 +60,7 @@ checkpoints/
 model_dataset/
 model_testdataset/
 survey_plans/
+inference_images/
 
 # API keys, secrets, and configs
 .env
