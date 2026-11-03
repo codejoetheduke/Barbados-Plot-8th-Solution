@@ -554,16 +554,14 @@ Masvongo, N., Kongo, D. (2025). Modular Barbados Survey Plans Detection & Segmen
 
 ## 📧 Contact & Support
 
-- **GitHub Issues:** [Report Issues](https://github.com/codejoetheduke/barbados-pipeline/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/codejoetheduke/barbados-pipeline/discussions)
-- **Email:** contact@barbadosai.org
+- **GitHub Issues:** [Report Issues](https://github.com/codejoetheduke/Barbados-Plot-8th-Solution/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/codejoetheduke/Barbados-Plot-8th-Solution/discussions)
 
 ---
 
 ## 🔗 Related Resources
 
 - [YOLO Pipeline Repository](https://github.com/codejoetheduke/barbados-yolo-pipeline)
-- [VLM Pipeline Documentation](https://www.kaggle.com/code/codejoetheduke/llm-pipeline-barbados/)
 - [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com/)
 - [Unsloth Documentation](https://github.com/unslothai/unsloth)
 - [Barbados Land Registry](https://www.gov.bb/)
